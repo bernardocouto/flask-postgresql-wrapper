@@ -1,0 +1,9 @@
+{
+    "database": "flask-postgresql-wrapper",
+    "host": "localhost",
+    "max_connection": 10,
+    "password": "flask-postgresql-wrapper",
+    "port": 5432,
+    "print_sql": true,
+    "username": "flask-postgresql-wrapper"
+}

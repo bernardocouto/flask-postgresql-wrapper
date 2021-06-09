@@ -1,0 +1,19 @@
+# Build
+build/
+dist/
+flask_postgresql_wrapper.egg-info/
+
+# Byte Compiled
+__pycache__/
+
+# MacOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Virtual Environment
+venv/
+
+# Visual Code Studio
+.vscode
